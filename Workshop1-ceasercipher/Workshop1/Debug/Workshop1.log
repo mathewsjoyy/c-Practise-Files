@@ -1,0 +1,4 @@
+﻿  Workshop1.cpp
+C:\Users\mathe\OneDrive\Documents\YEAR2-MODULES\C++\Workshops\Workshop1-ceasercipher\Workshop1\Workshop1.cpp(9,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mathe\OneDrive\Documents\YEAR2-MODULES\C++\Workshops\Workshop1-ceasercipher\Workshop1\Workshop1.cpp(23,27): warning C4018: '<': signed/unsigned mismatch
+  Workshop1.vcxproj -> C:\Users\mathe\OneDrive\Documents\YEAR2-MODULES\C++\Workshops\Workshop1-ceasercipher\Debug\Workshop1.exe
