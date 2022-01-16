@@ -14,7 +14,7 @@ class Robot{
 
         Robot(const Robot& rhs) : // copy constructor
             workUnit(rhs.workUnit),
-            _history(new std::vector<int>(*rhs._history)), // copy over the vector of ints
+            _history(new std::vector<int>(*rhs._history)), // copy over the vector
             name(rhs.name)
         {};
 
